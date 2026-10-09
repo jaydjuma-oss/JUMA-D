@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "JUMA-D",
+    "slug": "juma-d",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "backgroundColor": "#1B8A4D",
+    "primaryColor": "#1B8A4D",
+    "platforms": ["android", "ios", "web"]
+  }
+}
